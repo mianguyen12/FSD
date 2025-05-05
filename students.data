@@ -1,0 +1,114 @@
+[
+  {
+    "id": "105343",
+    "name": "Mia Nguyen",
+    "email": "mia.nguyen@university.com",
+    "password": "Mianguyen12345",
+    "subjects": [
+      {
+        "id": "461",
+        "mark": 61,
+        "grade": "P"
+      },
+      {
+        "id": "026",
+        "mark": 100,
+        "grade": "HD"
+      },
+      {
+        "id": "107",
+        "mark": 47,
+        "grade": "F"
+      },
+      {
+        "id": "235",
+        "mark": 44,
+        "grade": "F"
+      }
+    ]
+  },
+  {
+    "id": "422615",
+    "name": "Rachel Nguyen",
+    "email": "rachel.nguyen@university.com",
+    "password": "Rachelnguyen12345",
+    "subjects": [
+      {
+        "id": "079",
+        "mark": 99,
+        "grade": "HD"
+      },
+      {
+        "id": "952",
+        "mark": 73,
+        "grade": "C"
+      },
+      {
+        "id": "648",
+        "mark": 25,
+        "grade": "F"
+      },
+      {
+        "id": "452",
+        "mark": 68,
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "id": "599029",
+    "name": "Rosie Dang",
+    "email": "rosie.dang@university.com",
+    "password": "Rosiedang12345",
+    "subjects": [
+      {
+        "id": "962",
+        "mark": 57,
+        "grade": "P"
+      },
+      {
+        "id": "608",
+        "mark": 46,
+        "grade": "F"
+      },
+      {
+        "id": "762",
+        "mark": 48,
+        "grade": "F"
+      },
+      {
+        "id": "949",
+        "mark": 89,
+        "grade": "HD"
+      }
+    ]
+  },
+  {
+    "id": "424609",
+    "name": "Danny Nguyen",
+    "email": "danny.nguyen@university.com",
+    "password": "Dannynguyen1234",
+    "subjects": [
+      {
+        "id": "168",
+        "mark": 54,
+        "grade": "P"
+      },
+      {
+        "id": "717",
+        "mark": 94,
+        "grade": "HD"
+      },
+      {
+        "id": "287",
+        "mark": 58,
+        "grade": "P"
+      },
+      {
+        "id": "159",
+        "mark": 80,
+        "grade": "D"
+      }
+    ]
+  }
+]
